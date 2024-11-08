@@ -12,6 +12,7 @@ User-Friendly Interface: A menu-driven interface makes it easy to interact with 
 Visual Representation: The Sudoku board is printed with grid lines for better readability, with X representing empty spots.
 
 Requirements:
+
 ```Python 3.x```
 
 ```random```
