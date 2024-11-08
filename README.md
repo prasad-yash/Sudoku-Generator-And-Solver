@@ -16,3 +16,21 @@ Requirements:
 ```Python 3.x```
 
 ```random```
+
+Menu Options
+
+Generate Sudoku: Generates a Sudoku puzzle. You will be prompted to select a difficulty level.
+
+Easy
+
+Medium
+
+Hard
+
+Solve Sudoku: Offers two sub-options:
+
+Solve the generated Sudoku.
+
+Input your own Sudoku (use X or x to represent empty spots).
+
+Exit: Exits the program.
