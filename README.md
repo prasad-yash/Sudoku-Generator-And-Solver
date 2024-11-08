@@ -29,8 +29,10 @@ Generate Sudoku: Generates a Sudoku puzzle. You will be prompted to select a dif
 
 Solve Sudoku: Offers two sub-options:
 
-Solve the generated Sudoku.
+  - Solve the generated Sudoku.
 
-Input your own Sudoku (use X or x to represent empty spots).
+  - Input your own Sudoku (use X or x to represent empty spots).
 
-Exit: Exits the program.
+Exit: 
+
+  - Exits the program.
