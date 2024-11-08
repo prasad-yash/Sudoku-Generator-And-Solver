@@ -17,7 +17,7 @@ Requirements:
 
 ```random```
 
-Menu Options
+**Menu Options**
 
 Generate Sudoku: Generates a Sudoku puzzle. You will be prompted to select a difficulty level.
 
