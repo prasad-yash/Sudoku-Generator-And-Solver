@@ -21,11 +21,11 @@ Visual Representation: The Sudoku board is printed with grid lines for better re
 
 Generate Sudoku: Generates a Sudoku puzzle. You will be prompted to select a difficulty level.
 
-Easy
+  - Easy
 
-Medium
+  - Medium
 
-Hard
+  - Hard
 
 Solve Sudoku: Offers two sub-options:
 
